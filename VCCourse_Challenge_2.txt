@@ -1,0 +1,1 @@
+Code review processes and quality assurance are fundamental aspects of version control systems.
